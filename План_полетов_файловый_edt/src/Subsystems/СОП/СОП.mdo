@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7885f055-3bd9-49db-9b7a-1afb8287f424">
+  <name>СОП</name>
+  <synonym>
+    <key>ru</key>
+    <value>СОП</value>
+  </synonym>
+  <comment></comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.СОП</picture>
+  </picture>
+  <content>Document.ДанныеСОП</content>
+  <content>DocumentJournal.ПланПолетов</content>
+  <content>DataProcessor.УправлениеИнормТабло</content>
+</mdclass:Subsystem>

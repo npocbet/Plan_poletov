@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0d3cdcd1-2f35-4120-baad-21b7dc3a946f">
+  <producedTypes>
+    <refType typeId="57651899-a2ec-4859-b31d-d8ab959d098c" valueTypeId="060ff07f-fb58-45e9-bf5d-904cf0b8c76b"/>
+    <listType typeId="11c81b10-75bc-421b-9f9b-67ca04ecee52" valueTypeId="4ca42cf4-08e6-444a-9b8b-0cd4aaa25a23"/>
+    <managerType typeId="2167764f-e048-4da1-b37a-f1bf22cf33fe" valueTypeId="ab4aa162-ed68-4046-9811-39bd6f2d584d"/>
+  </producedTypes>
+  <name>ПринадлежностьВС</name>
+  <synonym>
+    <key>ru</key>
+    <value>Принадлежность ВС</value>
+  </synonym>
+  <comment></comment>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="bf8998ee-47e5-495f-afa1-f280a6c543fc">
+    <name>Россия</name>
+    <synonym>
+      <key>ru</key>
+      <value>Россия</value>
+    </synonym>
+    <comment>Абсолютное значение без коэффициентов</comment>
+  </enumValues>
+  <enumValues uuid="ab0f73ec-b1b7-470c-aefd-029ebc391636">
+    <name>Иностранное</name>
+    <synonym>
+      <key>ru</key>
+      <value>Иностранное</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+</mdclass:Enum>

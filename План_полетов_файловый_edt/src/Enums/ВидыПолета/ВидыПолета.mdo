@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3835186a-cedf-4a3d-96a7-ae374f468caa">
+  <producedTypes>
+    <refType typeId="13e2b308-b27b-4c42-a79b-f440b6975a94" valueTypeId="7b29094e-a928-4899-a3a9-3b73b900f871"/>
+    <listType typeId="b2f11bb6-20c8-428a-bef8-10dd997c3a44" valueTypeId="bb3056c4-3034-49b9-aa49-da62d7b15fe1"/>
+    <managerType typeId="c6b292f8-ad13-45b2-8f38-a91c968c4a68" valueTypeId="d5dea328-7615-4a2f-bc74-87471864a6e9"/>
+  </producedTypes>
+  <name>ВидыПолета</name>
+  <synonym>
+    <key>ru</key>
+    <value>Виды полета</value>
+  </synonym>
+  <comment></comment>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="f710b96c-4c82-4ef2-a752-53e95a2c91c8">
+    <name>Российский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Российский</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="1d9bc463-0207-4b1c-9a33-035df24e8c19">
+    <name>Иностранный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Иностранный</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="4450e8be-214c-417b-9102-7b2e1ef900aa">
+    <name>Ведомственный</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ведомственный</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+</mdclass:Enum>

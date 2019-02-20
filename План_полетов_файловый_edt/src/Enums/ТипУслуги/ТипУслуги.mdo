@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4ce8dea4-bd25-4d2c-8eb3-f9570b155547">
+  <producedTypes>
+    <refType typeId="a1a793fb-86ae-4fb9-a023-c530e37e04ab" valueTypeId="25b0fa82-e061-4163-97d7-7bed4570f329"/>
+    <listType typeId="3e3ab277-3568-4e5f-9ec7-e683e3580724" valueTypeId="2a71f86c-19b5-4399-b34a-3786906b8a63"/>
+    <managerType typeId="a9933d22-a107-467b-9066-9a84f37e2adf" valueTypeId="0bf23ce9-bbe2-4d02-afb3-3e00647ccb57"/>
+  </producedTypes>
+  <name>ТипУслуги</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тип услуги</value>
+  </synonym>
+  <comment></comment>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="76593507-0a60-4d91-a94c-e262db6428b0">
+    <name>АэропортовыеСборы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Аэропортовые сборы</value>
+    </synonym>
+    <comment>1</comment>
+  </enumValues>
+  <enumValues uuid="f3534c59-1204-4578-858a-bd607a942e18">
+    <name>НаземноеОбслуживание</name>
+    <synonym>
+      <key>ru</key>
+      <value>Наземное обслуживание</value>
+    </synonym>
+    <comment>2</comment>
+  </enumValues>
+  <enumValues uuid="9867d54f-fa75-4571-bcf7-fc403e3d41b5">
+    <name>ТехническоеОбслуживание</name>
+    <synonym>
+      <key>ru</key>
+      <value>Техническое обслуживание</value>
+    </synonym>
+    <comment>3</comment>
+  </enumValues>
+</mdclass:Enum>

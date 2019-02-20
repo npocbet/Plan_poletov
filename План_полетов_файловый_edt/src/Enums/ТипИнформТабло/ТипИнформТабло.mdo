@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="68a26ff9-6a83-4f52-8628-d44f6e6d3b34">
+  <producedTypes>
+    <refType typeId="c0b904b3-4d42-47f9-aa89-6cbecddfbf33" valueTypeId="c8a58003-b9f6-4859-828d-10d992c36561"/>
+    <listType typeId="91cec592-638e-4059-bba2-96d9559df2fa" valueTypeId="ad9a2e70-fdd8-4b96-8ec6-91ded0340b7f"/>
+    <managerType typeId="06ff2ce1-e652-4ad9-a1b6-43a8037408e6" valueTypeId="98c5e95b-a954-4e73-8259-6df532389638"/>
+  </producedTypes>
+  <name>ТипИнформТабло</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тип информ табло</value>
+  </synonym>
+  <comment></comment>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="eb54c1d7-bdff-47df-96c2-cffd3b73e8bf">
+    <name>ТаблоРегистрация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Табло регистрация</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="114d1a12-34d4-471a-9232-f586c088fe76">
+    <name>ТаблоПосадка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Табло посадка</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+</mdclass:Enum>

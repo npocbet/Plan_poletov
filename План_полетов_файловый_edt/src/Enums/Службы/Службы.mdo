@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9a54d349-9d9a-4c73-8c59-235a93220bf1">
+  <producedTypes>
+    <refType typeId="104198d5-14c1-4aca-afe9-1fb37da658d6" valueTypeId="9da7e3bb-ec8f-4407-b48d-7694925123c8"/>
+    <listType typeId="99a46a9d-b94b-4dd9-8416-e1f8ae8fb8cc" valueTypeId="ff5c86f4-887d-49f9-a77d-b1dad86d5f0e"/>
+    <managerType typeId="e10df376-477e-4dfe-b51e-108ac125689b" valueTypeId="659d2ced-9fe3-44b7-98e1-875a0f7a51e4"/>
+  </producedTypes>
+  <name>Службы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Службы</value>
+  </synonym>
+  <comment></comment>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="abb56001-e2bc-4a8a-9f19-c6985fcc212f">
+    <name>САиСТ</name>
+    <synonym>
+      <key>ru</key>
+      <value>С аи СТ</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="712b9ac1-a389-4d4b-b1f0-65b4bc6a956a">
+    <name>АТБ</name>
+    <synonym>
+      <key>ru</key>
+      <value>АТБ</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="f034e216-a2d9-4db0-97a4-a105b2e354f4">
+    <name>Здравпункт</name>
+    <synonym>
+      <key>ru</key>
+      <value>Здравпункт</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="c04c57ca-bc25-4a2d-b7ff-c4b34538bb40">
+    <name>САБ</name>
+    <synonym>
+      <key>ru</key>
+      <value>САБ</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="7b5c4e87-78f6-45c7-bd57-38604b700a1b">
+    <name>СОП</name>
+    <synonym>
+      <key>ru</key>
+      <value>СОП</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="1893b331-057c-431f-90ef-d679a81a6427">
+    <name>ПДСА</name>
+    <synonym>
+      <key>ru</key>
+      <value>ПДСА</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+  <enumValues uuid="059d75d9-9d16-4978-b8fa-413aabf1c39a">
+    <name>СПАСОП</name>
+    <synonym>
+      <key>ru</key>
+      <value>СПАСОП</value>
+    </synonym>
+    <comment></comment>
+  </enumValues>
+</mdclass:Enum>
